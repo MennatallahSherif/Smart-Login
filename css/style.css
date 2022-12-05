@@ -1,0 +1,138 @@
+.wel h2{
+   
+   text-align: center;
+   margin-top: 10%;
+}
+textarea
+{
+    resize: none;
+}
+.head{
+    width: 100%;
+    
+    
+}
+body{
+    background-color: #24343E;
+
+}
+h2{
+    color: #1F8FB0;
+}
+.login{
+    width: 60%;
+    height: 300px;
+    text-align: center;
+    margin-top: 10%;
+    margin-left: 18%;
+    background-color: #24353F;
+    border: 4px solid #24343E;
+    position: relative;
+  
+}
+.bu{
+    border: 1px solid #1F8FB0;
+    padding: 10px;
+    text-decoration: none;
+   
+}
+.bu:hover{
+    
+    color: white;
+    background-color: #1F8FB0;
+}
+#name{
+    background-color: #24353F;
+    border: 1px solid white;
+    color: white;
+}
+#name:hover{
+   
+    border: 1px solid #1F8FB0;
+}
+#email{
+    background-color: #24353F;
+    border: 1px solid white;
+    color: white;
+}
+#emailin{
+    background-color: #24353F;
+    border: 1px solid white;
+    color: white;
+}
+#email:hover{
+    border: 1px solid #1F8FB0;
+    
+}
+#emailin:hover{
+    border: 1px solid #1F8FB0;
+    
+}
+#pass{
+    background-color: #24353F;
+    color: white;
+}
+#passin{
+    background-color: #24353F;
+    color: white;
+}
+#pass:hover{border: 1px solid #1F8FB0;
+  }
+#passin:hover{border: 1px solid #1F8FB0;
+   }
+
+h5{
+    color: white;
+}
+
+.sign{
+    color: white;
+    text-decoration: none;
+   
+}
+.sign:hover{
+    text-decoration: underline;
+    color: white;
+}
+.SignUp{
+    width: 60%;
+    height: 350px;
+    text-align: center;
+    margin-top: 7%;
+    margin-left: 18%;
+    background-color: #24353F;
+    border: 4px solid #24343E;
+}
+#welcom{
+  
+    background-color: #24343E;
+    width: 100%;
+    height: 550px;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+   
+}
+#welcom p{
+    position: relative;
+    top: 40%;
+    color: white;
+    font-size: 300%;
+}
+
+a{
+    color: thistle;
+}
+/* .wela{
+    width: 100%;
+    height: 50px;
+    background-color: #174655
+} */
+.wela a{
+
+ margin-left: 90%;
+
+ 
+
+}
